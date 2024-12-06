@@ -1,4 +1,5 @@
 baseURL = 'https://mariol03.es/'
 languageCode = 'es'
 theme = 'beautifulhugo'
-title = 'Mario Laglera'
+title = 'Porfolio'
+author = 'Mario Laglera'
