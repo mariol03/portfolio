@@ -1,6 +1,6 @@
 baseURL = 'https://mariol03.es/'
 languageCode = 'es'
-theme = 'beautifulhugo'
+theme = 'beautifulhugo-master'
 title = 'Porfolio'
 
 [params.author]
