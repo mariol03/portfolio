@@ -3,7 +3,7 @@ date = '2024-12-06T13:39:53+01:00'
 draft = false
 title = 'Markdown'
 +++
-# Markdown
+# Markdown 
 Markdown es un lenguaje de marcas, que permite generar documentos con texto enriquecido, usando una sintaxis sencilla.  Markdown es un lenguaje de marcas que se puede convertir perfectamente a un documento HTML. Su sintaxis consiste en un "carácter de control" seguido del contenido que va a tener este bloque de contenido.
 ## Sintaxis
 1. **Listas.**
