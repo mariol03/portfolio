@@ -5,3 +5,13 @@ title = 'Porfolio'
 
 [params.author]
 name = 'Mario Laglera'
+
+[[menu.main]]
+    name = 'Markdown'
+    url = '/markdown'
+    weight = 1
+
+[[menu.main]]
+    name = 'Hobbies'
+    url = '/hobbies'
+    weight = 1
