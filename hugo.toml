@@ -2,4 +2,6 @@ baseURL = 'https://mariol03.es/'
 languageCode = 'es'
 theme = 'beautifulhugo'
 title = 'Porfolio'
-author = 'Mario Laglera'
+
+[params.author]
+name = 'Mario Laglera'
