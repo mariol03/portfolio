@@ -30,4 +30,4 @@ name = 'Mario Laglera'
     parent = 'Proyectos'
     name = 'AutoTranscription'
     url = '/proyectos/AutoTranscription'
-    weight = 2
+    weight = 3
